@@ -1,3 +1,4 @@
 [submodule "ngpf-data"]
 	path = ngpf-data
 	url = https://github.com/ngpf2022/ngpf-data
+	branch = main
